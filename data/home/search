@@ -1,0 +1,11 @@
+[
+  {
+    "id": "kzgkPLX0qjKmRjHT2TqW",
+    "img_link": "https://raw.githubusercontent.com/pjk0007/yomo_backend/main/assets/img/Bread.webp",
+    "name": "MIS팀 베이킹 클럽",
+    "short_intro": "🍞 MIS팀 모여서 재밌고 맛있게 베이킹~!",
+    "member_num": 32,
+    "recent_parties": 4,
+    "hashes": ["스콘", "쿠키", "케이크", "마들렌"]
+  }
+]

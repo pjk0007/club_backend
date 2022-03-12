@@ -1,7 +1,7 @@
 {
   "auth": 0,
   "email": "pjk0007@naver.com",
-  "img_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/250px-Volodymyr_Zelensky_Official_portrait.jpg",
+  "img_link": "https://raw.githubusercontent.com/pjk0007/yomo_backend/main/assets/img/user1.jpeg",
   "nickname": "블로디미르 젤렌스키",
   "intro": "우크라이나 대통령입니다.",
   "clubs": [

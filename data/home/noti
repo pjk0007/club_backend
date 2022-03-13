@@ -1,0 +1,20 @@
+[
+    {
+      "id": "noti_id",
+      "img_link": "https://raw.githubusercontent.com/pjk0007/yomo_backend/main/assets/img/scon.jpeg",
+      "category":"모임 안내",
+      "name": "MIS팀 베이킹 클럽",
+      "title": "구수~한 스콘 만들기",
+      "content": "준비물 : 열정, 체력 베이킹 도구와 재료는 전부 준비했음 열정만 들고 오셈",
+      "date":"timestamp"
+    },
+    {
+        "id": "noti_id",
+        "img_link": "https://raw.githubusercontent.com/pjk0007/yomo_backend/main/assets/img/Bread.webp",
+        "category":"클럽 가입",
+        "name": "MIS팀 베이킹 클럽",
+        "title": "클럽에 가입하였습니다",
+        "content": "어서오세요~ MIS팀 베이킹 클럽입니다 가입인사 부탁드리구요 많은 참여바랍니다!",
+        "date":"timestamp"
+    }
+]

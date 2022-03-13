@@ -1,0 +1,85 @@
+[
+    {
+        "postID":"noticeTest",
+        "category":"공지",
+        "title":"요기모여 모바일 앱 출시!",
+        "like":5,
+        "date":{
+            "year":2022,
+            "month":3,
+            "day":12,
+            "hour":15,
+            "minute":14
+        },
+        "imgLink":"adsf",
+        "content":"안녕하세요! 요기모여팀입니다. 요기모여 모바일 앱이 출시되었습니다. 다양한 클럽을 개설하고 클럽원을 모아 모임을 즐기세요! 불편한 점이 있으면 언제든지 고객센터로 문의바랍니다. 여러분의 피드백 기다리겠습니다. 언제나 최선을 다하는 요기모여팀이 되겠습니다. 감사합니다. 요기모여팀 드림.",
+        "writer":{
+            "name":"관리자",
+            "imgLink":"https://raw.githubusercontent.com/pjk0007/yomo_backend/main/assets/img/user1.jpeg"
+        },
+        "comment":[
+            {
+                "commentID":"comment1",
+                "name":"엘레나",
+                "imgLInk":"https://raw.githubusercontent.com/pjk0007/yomo_backend/main/assets/img/user1.jpeg",
+                "date":{
+                    "year":2022,
+                    "month":3,
+                    "day":12,
+                    "hour":15,
+                    "minute":14
+                },
+                "content":"반갑습니다! 다양한 사람들과 함께 모여 소통하며 즐길 수 있는 공간이 되었으면 좋겠습니다!",
+                "comment":[
+                    {
+                        "commentID":"comment2",
+                        "name":"엘레나",
+                        "imgLInk":"https://raw.githubusercontent.com/pjk0007/yomo_backend/main/assets/img/user1.jpeg",
+                        "date":{
+                            "year":2022,
+                            "month":3,
+                            "day":12,
+                            "hour":15,
+                            "minute":14
+                        },
+                        "content":"반갑습니다! 다양한 사람들과 함께 모여 소통하며 즐길 수 있는 공간이 되었으면 좋겠습니다!",
+                        "comment":[
+                            
+                        ]
+                    }
+                ]
+            },
+            {
+                "commentID":"comment3",
+                "name":"엘레나",
+                "imgLInk":"https://raw.githubusercontent.com/pjk0007/yomo_backend/main/assets/img/user1.jpeg",
+                "date":{
+                    "year":2022,
+                    "month":3,
+                    "day":12,
+                    "hour":15,
+                    "minute":14
+                },
+                "content":"반갑습니다! 다양한 사람들과 함께 모여 소통하며 즐길 수 있는 공간이 되었으면 좋겠습니다!",
+                "comment":[
+                    {
+                        "commentID":"comment4",
+                        "name":"엘레나",
+                        "imgLInk":"https://raw.githubusercontent.com/pjk0007/yomo_backend/main/assets/img/user1.jpeg",
+                        "date":{
+                            "year":2022,
+                            "month":3,
+                            "day":12,
+                            "hour":15,
+                            "minute":14
+                        },
+                        "content":"반갑습니다! 다양한 사람들과 함께 모여 소통하며 즐길 수 있는 공간이 되었으면 좋겠습니다!",
+                        "comment":[
+                            
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
